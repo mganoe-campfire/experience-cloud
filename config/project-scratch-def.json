@@ -1,8 +1,8 @@
 {
-  "orgName": "FSL Campfire",
+  "orgName": "Experience Cloud Campfire",
   "adminEmail": "tyler@mailinator.com",
-  "description": "fslcampfire",
-  "template": "0TTDp000003Kvfl",
+  "description": "experiencecloudcampfire",
+  "template": "0TT1U000009X5zB",
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
